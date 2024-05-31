@@ -16,7 +16,7 @@ English🍔
 ![Programming languages icons](https://skillicons.dev/icons?i=java,py,powershell,bash)
 
 ### Tools and techologies
-![Tools and technologies](https://skillicons.dev/icons?i=ansible,aws,azure,bitbucket,debian,docker,elasticsearch,git,github,prometheus,grafana,jenkins,kafka,kali,kubernetes,latex,redhat,
+![Tools and technologies](https://skillicons.dev/icons?i=ansible,aws,azure,bitbucket,debian,docker,elasticsearch,git,github,prometheus,grafana,jenkins,kafka,kali,kubernetes,latex,redhat)
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mysql,postgres)
